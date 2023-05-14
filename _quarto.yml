@@ -6,9 +6,9 @@ website:
   favicon: L.png
   navbar:
     right:
-      - href: thesis.pdf
+      - href: Thesis.pdf
         text: PhD thesis
-      - href: LauraCV.pdf
+      - href: CV.pdf
         text: CV
         
   page-footer: 
