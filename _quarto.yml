@@ -2,18 +2,30 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "lauradiazmm"
+  title: "Laura Díaz-Muñoz Manzanares"
+  favicon: L.png
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - href: thesis.pdf
+        text: PhD thesis
+      - href: LauraCV.pdf
+        text: CV
+        
+  page-footer: 
+    background: light
+    left: 
+      - "Made in Quarto | Copyright 2023"
+    right: 
+      - icon: github
+        href: https://github.com/lauradiazmm
 
 format:
   html:
-    theme: cosmo
+    link-external-newwindow: true
+    theme: Solar
     css: styles.css
-    toc: true
+    mainfont: Nunito
+    fontsize: 14pt
+
 
 editor: visual
-

@@ -1,11 +1,37 @@
 ---
-title: "lauradiazmm"
+title: "Laura Díaz-Muñoz Manzanares" 
+image: mypic.jpeg 
+about: 
+  template: trestles 
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/laura-d-95559187/
+    - icon: github
+      text: GitHub
+      href: https://github.com/lauradiazmm
+    - icon: envelope
+      text: Email
+      href: mailto:ldm21@alu.ua.es
 ---
+#### ABOUT ME
 
-This is a Quarto website.
+I recently finished a M.S. in Cognitive Neuroscience of Language at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Currently, I am highly motivated to pursue a Ph.D. position in the field of infant development, with a particular interest in the neurocognitive mechanisms underlying the successful development of reading skills prior to formal literacy instruction.
 
-```{r}
-1 + 1
-```
+#### Research interests
+
+-   Reading acquisition
+-   Developmental dyslexia
+-   Spoken and written language processing
+-   Multilingualism
+
+#### {{< fa graduation-cap >}} Education
+
+-   MSc in Cognitive Neuroscience of Language, BCBL, Spain
+-   MA in Spanish and English as Second Languages
+-   BA in Translation and Interpretation, University of Alicante, Spain
+---
