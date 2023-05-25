@@ -7,7 +7,7 @@ website:
   navbar:
     right:
       - href: Thesis.pdf
-        text: Thesis
+        text: Master Thesis
       - href: CV.pdf
         text: CV
         

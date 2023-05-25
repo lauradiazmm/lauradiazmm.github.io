@@ -17,9 +17,10 @@ about:
       text: Email
       href: mailto:ldm21@alu.ua.es
 ---
+
 #### ABOUT ME
 
-I recently finished a M.S. in Cognitive Neuroscience of Language at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain. 
+I recently finished a M.S. in Cognitive Neuroscience of Language at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain.
 
 Currently, I am highly motivated to pursue a Ph.D. position in the field of infant development, with a particular interest in the neurocognitive mechanisms underlying the successful development of reading skills prior to formal literacy instruction.
 
@@ -33,6 +34,9 @@ Currently, I am highly motivated to pursue a Ph.D. position in the field of infa
 #### {{< fa graduation-cap >}} Education
 
 -   MSc in Cognitive Neuroscience of Language, BCBL, Spain
+
 -   MA in Spanish and English as Second Languages
--   BA in Translation and Interpretation, University of Alicante, Spain
----
+
+-   
+
+    ## BA in Translation and Interpretation, University of Alicante, Spain
