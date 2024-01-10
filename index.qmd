@@ -20,23 +20,25 @@ about:
 
 #### ABOUT ME
 
-I recently finished a M.S. in Cognitive Neuroscience of Language at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain.
+I recently finished a Bootcamp in Data Science and Machine Learning at <a href="https://iddigitalschool.com/bootcamps/" style="text-decoration:none;">IDBootcamps</a> in Spain.
 
-Currently, I am highly motivated to pursue a Ph.D. position in the field of infant development, with a particular interest in the neurocognitive mechanisms underlying the successful development of reading skills prior to formal literacy instruction.
+Currently, I am highly motivated to pursue a position in the dynamic field of data science, with a particular interest in leveraging advanced analytics and machine learning techniques to derive meaningful insights. My goal is to apply my analytical mindset and programming expertise to make a positive impact on data-driven decision-making processes. I am excited about the endless possibilities that data science offers and look forward to exploring opportunities that allow me to grow and contribute to cutting-edge projects
 
-#### Research interests
+#### Skills and technologies
 
--   Reading acquisition
--   Developmental dyslexia
--   Spoken and written language processing
--   Multilingualism
+-   Programming: 𝐏𝐲𝐭𝐡𝐨𝐧 and its main libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+-   Databases: 𝐒𝐐𝐋
+-   Data Visualization: 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, Power BI
+-   Machine Learning: Supervised, unsupervised, and reinforcement learning models
+-   NLP (Natural Language Processing)
+-   Mathematics and Statistics
 
 #### {{< fa graduation-cap >}} Education
+
+-   ## Bootcamp in Data Science and Machine Learning 
 
 -   MSc in Cognitive Neuroscience of Language, BCBL, Spain
 
 -   MA in Spanish and English as Second Languages
 
--   
-
-    ## BA in Translation and Interpretation, University of Alicante, Spain
+-   BA in Translation and Interpretation, University of Alicante, Spain
